@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    }
+    #firstp{
+    font-size: 55px;
+    }
+    #names{
+    font-size:40px;
+    }
+    #images{
+    border-style:solid;
+    border-color:#B0BEC5;
+    border:1px;
+    border-radius:10px;
+    width:450px;
+    }
